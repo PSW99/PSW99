@@ -30,6 +30,9 @@ Here are some ideas to get you started:
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSW99&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+# Alghorithm
+---
+
 <div>
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=pswan99" width="42%" height="100%"/>
 </div>
