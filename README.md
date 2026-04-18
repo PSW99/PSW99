@@ -49,7 +49,7 @@
  
 ## 🚀 Projects
  
-### 💳 [SafePay](https://github.com/PSW99) &nbsp;·&nbsp; Spring Boot 간편 송금 시스템
+### 💳 [SafePay](https://github.com/PSW99/safepay) &nbsp;·&nbsp; Spring Boot 간편 송금 시스템
 > **"분산 환경에서 단 1원도 손실되지 않는 결제 시스템"**
  
 분산 락 + 비관적 락 **이중 방어 동시성 제어**, AES-256-GCM 컬럼 암호화 + HMAC Blind Index, Refresh Token Rotation with Reuse Detection. Prometheus · Grafana · k6 기반 부하 테스트로 설계 결정을 **데이터로 검증**.
